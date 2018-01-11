@@ -3,15 +3,15 @@
 body {
 	color: #1373E5;
 	font-size: 50px;
-    font-family: 'Roboto', sans-serif;
+    font-family:'Roboto',sans-serif;
 }
 h1 {
 	color: #052040;
 	font-size: 300px;
-	font-family: 'Bellefair', serif;
+	font-family:'Bellefair',serif;
 }
 #slogan {
 	font-style: italic;
 	font-size: 100px; 
-	font-family: 'Roboto', sans-serif;
+	font-family:'Roboto',sans-serif;
 }
