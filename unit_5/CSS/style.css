@@ -1,0 +1,35 @@
+ @import url('https://fonts.googleapis.com/css?family=Bellefair');
+ 
+body {
+	color: #1373E5;
+	font-size: 50px;
+}
+h1 {
+	color: #052040;
+	font-size: 300px;
+	font-family: 'Bellefair', serif;
+}
+#slogan {
+	font-style: italic;
+	font-size: 100px; 
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid; 
+	padding: 20px;
+}
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid; 
+	padding: 20px;
+}
